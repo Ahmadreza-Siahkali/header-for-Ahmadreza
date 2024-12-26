@@ -64,6 +64,9 @@
   [for="open"] {
     display: none;
   }
+  [for="close"] {
+    display: none !important;
+  }
   header {
     width: 100%;
     height: 40px;
